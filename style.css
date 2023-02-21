@@ -78,9 +78,6 @@ input:focus{
     text-decoration: none;
     color: #464647;
 }
-@media only screen and (max-width: 600px) {
-    .wrapper{
-        width: 95%;
-        text
-    }
+.fayl{
+    color: #fff;
 }
